@@ -1,15 +1,15 @@
 ﻿bool CheckPalindrome(int number)
 {
-    int current = number, sum = 0;
+    int current = number, reverse = 0;
 
-    while (current > 0)
+    while (number > 0)
     {
-        int remainder = current % 10;
-        sum = current * 10 + remainder;
+        int remainder = number % 10;
+        reverse = reverse * 10 + remainder;
         number /= 10;
     }
 
-    return (number == sum);
+    return current == reverse;
 }
 
 if (CheckPalindrome(159))

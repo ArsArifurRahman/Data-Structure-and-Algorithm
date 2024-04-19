@@ -9,7 +9,7 @@
         current /= 10;
     }
 
-    return (number == sum);
+    return number == sum;
 }
 
 if (CheckArmstrong(159))

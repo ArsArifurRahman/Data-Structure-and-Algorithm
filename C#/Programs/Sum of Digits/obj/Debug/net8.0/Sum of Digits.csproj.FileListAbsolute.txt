@@ -1,0 +1,15 @@
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\bin\Debug\net8.0\Sum of Digits.exe
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\bin\Debug\net8.0\Sum of Digits.deps.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\bin\Debug\net8.0\Sum of Digits.runtimeconfig.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\bin\Debug\net8.0\Sum of Digits.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\bin\Debug\net8.0\Sum of Digits.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.AssemblyInfoInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.AssemblyInfo.cs
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.csproj.CoreCompileInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.sourcelink.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\refint\Sum of Digits.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\Sum of Digits.genruntimeconfig.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Sum of Digits\obj\Debug\net8.0\ref\Sum of Digits.dll

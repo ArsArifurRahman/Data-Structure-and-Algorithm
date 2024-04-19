@@ -1,16 +1,15 @@
 ﻿int SecondLargestElement(int[] array)
 {
-    if (array.Length < 2)
+    int largest = 0;
+    int secondLargest = 0;
+    for (int i = 0; i < array.Length; i++)
     {
-        throw new ArgumentException("Array must contain at least two elements");
-    }
-
-    int largest = array[0];
-    int secondLargest = int.MinValue;
-
-    for (int i = 1; i < array.Length; i++)
-    {
-        if (array[i] > secondLargest && array[i] < largest)
+        if (array[i] > largest)
+        {
+            secondLargest = largest;
+            largest = array[i];
+        }
+        else if (array[i] > secondLargest)
         {
             secondLargest = array[i];
         }
