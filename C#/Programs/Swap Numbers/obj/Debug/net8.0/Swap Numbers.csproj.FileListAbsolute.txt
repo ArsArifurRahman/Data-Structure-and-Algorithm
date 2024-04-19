@@ -1,0 +1,15 @@
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\bin\Debug\net8.0\Swap Numbers.exe
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\bin\Debug\net8.0\Swap Numbers.deps.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\bin\Debug\net8.0\Swap Numbers.runtimeconfig.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\bin\Debug\net8.0\Swap Numbers.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\bin\Debug\net8.0\Swap Numbers.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.AssemblyInfoInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.AssemblyInfo.cs
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.csproj.CoreCompileInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.sourcelink.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\refint\Swap Numbers.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\Swap Numbers.genruntimeconfig.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Swap Numbers\obj\Debug\net8.0\ref\Swap Numbers.dll

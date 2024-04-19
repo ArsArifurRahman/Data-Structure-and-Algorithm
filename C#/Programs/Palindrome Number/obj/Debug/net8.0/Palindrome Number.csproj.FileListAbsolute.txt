@@ -1,0 +1,15 @@
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\bin\Debug\net8.0\Palindrome Number.exe
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\bin\Debug\net8.0\Palindrome Number.deps.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\bin\Debug\net8.0\Palindrome Number.runtimeconfig.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\bin\Debug\net8.0\Palindrome Number.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\bin\Debug\net8.0\Palindrome Number.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfoInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.AssemblyInfo.cs
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.sourcelink.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\refint\Palindrome Number.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\Palindrome Number.genruntimeconfig.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Palindrome Number\obj\Debug\net8.0\ref\Palindrome Number.dll

@@ -1,0 +1,15 @@
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\bin\Debug\net8.0\Reverse Number.exe
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\bin\Debug\net8.0\Reverse Number.deps.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\bin\Debug\net8.0\Reverse Number.runtimeconfig.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\bin\Debug\net8.0\Reverse Number.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\bin\Debug\net8.0\Reverse Number.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfoInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfo.cs
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.csproj.CoreCompileInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.sourcelink.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\refint\Reverse Number.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\Reverse Number.genruntimeconfig.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Reverse Number\obj\Debug\net8.0\ref\Reverse Number.dll

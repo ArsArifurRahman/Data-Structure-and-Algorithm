@@ -1,0 +1,15 @@
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\bin\Debug\net8.0\Count Number Of Words.exe
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\bin\Debug\net8.0\Count Number Of Words.deps.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\bin\Debug\net8.0\Count Number Of Words.runtimeconfig.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\bin\Debug\net8.0\Count Number Of Words.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\bin\Debug\net8.0\Count Number Of Words.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.AssemblyInfoInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.AssemblyInfo.cs
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.csproj.CoreCompileInputs.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.sourcelink.json
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\refint\Count Number Of Words.dll
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.pdb
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\Count Number Of Words.genruntimeconfig.cache
+C:\Users\arsns\OneDrive\Desktop\Work\Data-Structure-and-Algorithm\C#\Programs\Count Number Of Words\obj\Debug\net8.0\ref\Count Number Of Words.dll
